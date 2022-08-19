@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Surendraprajapat18
+- 👋 Hi, I’m @Surendra Prajapat
 - 👀 I’m interested in more learn about in deep python
 - 🌱 I’m currently learning web devloping
 - 💞️ I’m looking to collaborate on ...
