@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbagwan2308&label=Profile%20views&color=0e75b6&style=flat" alt="akashbagwan2308" /> </p>
 
-- 🌱 I’m currently learning **Python, Data Structure and Algorithms**
+- 🌱 I’m currently learning **Python, Data Structure and Algorithms, Cyber Security**
 
-- 💬 Ask me about **Electronics and Programming Language**
+- 💬 Ask me about **Electronics and Programming Language Doubt**
 
 - 📫 How to reach me **Prajapatsurendra78980@gmail.com**
 
