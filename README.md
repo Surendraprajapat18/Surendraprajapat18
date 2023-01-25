@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surendraprajapat18&label=Profile%20views&color=0e75b6&style=flat" alt="surendraprajapat18" /> </p>
 
-- 🔭 I’m currently working on **Python.**
+- 🔭 I’m currently working on **Machine Learning Project.**
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis.**
 
