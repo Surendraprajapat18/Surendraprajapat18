@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis.**
 
-- 👯 I’m looking to collaborate on **Data Analytics Internship.**
+- 👯 I’m looking to collaborate on **Data Engineer Internship.**
 
 - 💬 Ask me about **Programming doubt, related to Electronics..**
 
 - 📫 How to reach me **prajapatsurendra78980@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Sj-JKnjQIzBoEwYB77k3WPMl-NOHbbOo/view?usp=sharing](https://drive.google.com/file/d/1Sj-JKnjQIzBoEwYB77k3WPMl-NOHbbOo/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19NbN0SbOLnneRswiScTXzgyl-uB09L0n/view?usp=sharing](https://drive.google.com/file/d/19NbN0SbOLnneRswiScTXzgyl-uB09L0n/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
